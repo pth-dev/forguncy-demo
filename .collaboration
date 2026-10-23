@@ -105,7 +105,17 @@
   },
   {
     "ModuleName": "PCPage/页面1",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "YN319006260\\Administrator",
+      "Email": "jsm@shingtakvn.com"
+    },
+    "LockDateTime": "2026-10-23T12:56:24.4612916+07:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\页面1.json",
+      "Pages\\页面1.rd"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
