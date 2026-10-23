@@ -169,14 +169,7 @@
   },
   {
     "ModuleName": "Plugin",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "YN319006260\\Administrator",
-      "Email": "jsm@shingtakvn.com"
-    },
-    "LockDateTime": "2026-10-23T11:20:53.3188385+07:00",
-    "ModuleType": 40,
-    "ToRemoveFiles": []
+    "ModuleType": 40
   },
   {
     "ModuleName": "PublishSetting",
@@ -184,12 +177,6 @@
   },
   {
     "ModuleName": "MasterPCPage/MasterPC_1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "YN319006260\\Administrator",
-      "Email": "jsm@shingtakvn.com"
-    },
-    "LockDateTime": "2026-10-23T10:59:53.2781314+07:00",
     "ModuleType": 3
   }
 ]
